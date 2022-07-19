@@ -1,0 +1,1164 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:1:1-40:12
+INJECTED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:1:1-40:12
+INJECTED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:1:1-40:12
+INJECTED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:1:1-40:12
+MERGED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:1:1-40:12
+MERGED from [com.facebook.flipper:flipper:0.33.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/5575668f30d3f7bf0c3766d1e09ffe2b/jetified-flipper-0.33.1/AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.33.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/633198780c3c5282b274c42d9366e4c7/flipper-network-plugin-0.33.1/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.33.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/014f74d9da94ba0ac50d216c40b25a16/flipper-fresco-plugin-0.33.1/AndroidManifest.xml:8:1-15:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/8cb6c5386f626f716dcbb9d938b80eb5/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:react-native-google-signin] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-google-signin/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-community_async-storage] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_datetimepicker] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/@react-native-community/datetimepicker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-community_geolocation] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_masked-view] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_toolbar-android] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/@react-native-community/toolbar-android/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:lottie-react-native] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/lottie-react-native/src/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-android-location-enabler] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-android-location-enabler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-exception-handler] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-exception-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-16:12
+MERGED from [:react-native-fetch-blob] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-firebase-push-notifications] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-firebase-push-notifications/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-picker] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [:react-native-maps] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-razorpay] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-razorpay/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-17:12
+MERGED from [:react-native-reanimated] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-scratch] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-scratch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-svg] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vector-icons] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:tipsi-stripe] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/tipsi-stripe/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-33:12
+MERGED from [com.facebook.react:react-native:0.62.3] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/68f700d2e325951caf07d002a41279ff/jetified-react-native-0.62.3/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-core:11.8.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/613f8a9b4e1e0edaea9b94cb9f470831/firebase-core-11.8.0/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/04f20e34c9de84425b8b08a98904a708/firebase-analytics-17.2.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/db6fcefd8c370c33b03eb74e2fbda3da/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.tipsi:CreditCardEntry:1.5.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/95b08adada6039b22c614288befa84a5/jetified-CreditCardEntry-1.5.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/330121b8e92b740fb6419c1db7a7e714/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/b554e698e493673f5bf2fb89b871cd07/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.stripe:stripe-android:8.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/6f3b64bc4bbcd2393d2ce672c4e8aa6d/jetified-stripe-android-8.1.0/AndroidManifest.xml:2:1-27:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fc3c1e15db594c67c8494a18755b8358/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/7409e4eab58cbddd5e11fa088431bd0b/android-jsc-r245459/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:flipper:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/b497d64123b025beb665b5cbbc3a4976/flipper-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/0a185677e8f74add56d548189f0463fd/stetho-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/8fbb18d33fdb4dc2084da93ede3841be/fresco-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/d4104d5ce9102d6a4b11a7fa9d760c50/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/beff4b448ce2ca63c9679874e9d144a7/drawee-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/4bd757098a70d59e0a33d96795318088/nativeimagefilters-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/209038031caf675f527e471c3eb38e9f/imagepipeline-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/dd451766a2eb5aed591e5751551dd625/nativeimagetranscoder-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/ad10dc86932e34dc591bb02184c87698/imagepipeline-base-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/2b675c0ce215efa454479a31eec38336/soloader-0.8.2/AndroidManifest.xml:2:1-13:12
+MERGED from [com.airbnb.android:lottie:3.4.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/f82040c9c87aa4fce4a0d0a53cc1d610/lottie-3.4.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/d5155d59bc3875d45f6a6ffe92894573/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-messaging:20.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/b863ecf1d60e6dc77c1250712ec6fab9/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/608d7d80226dcbb5bb913cce7647ebf4/firebase-datatransport-17.0.3/AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/6ae79be7141b0e0e3800c62d6cd75ee1/transport-backend-cct-2.2.0/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/36dde8357b13a33ada86951eec006b1b/transport-runtime-2.2.0/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/e5abcd9a2c85d3df9455b0594c047112/play-services-measurement-api-17.2.2/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/324cd18643f77b9c70e8c1c3f2b9aafe/play-services-measurement-sdk-17.2.2/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/092c0a86c587077928690eb9e929f102/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/9b0c0521a8dad06cf7193cd0233376ba/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/e23b411c4b015bfa5c57774b50f7cfc7/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/650be9f20f75f16a764e727e11731074/firebase-iid-20.0.2/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/d6daa6d9d19497996d7971db2d3d85a9/play-services-measurement-impl-17.2.2/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/360808d70cfd7b0a9ee8e6d355dfa215/play-services-stats-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:17:1-123:12
+MERGED from [androidx.room:room-runtime:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/e79bd5cfc3f6b6f41996e88c57cb3983/room-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/a0da4274783150378d2827d348bd711f/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fa13c25062027a0ebcf7dedf4f3d6860/play-services-location-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-wallet:11.8.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/95ea294fd29eaa62e43868b5d1bb6191/jetified-play-services-wallet-11.8.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/9625e09df33125f138b13aaf49e104f8/play-services-maps-17.0.0/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/ea830cdc8d2c4eab77592a25e04d7cc2/firebase-iid-interop-17.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.razorpay:checkout:1.6.8] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/a729598ba7c6884f3198dc91a5cca2f8/checkout-1.6.8/AndroidManifest.xml:2:1-32:12
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/63f5385c09c68f379b6a1c31dda80725/play-services-auth-17.0.0/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/5ba9ac7d0dae5c0743ae1473a3acc41d/play-services-auth-api-phone-17.1.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-identity:11.8.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/e8ea488174d3eb64857ddb6d6d345c18/play-services-identity-11.8.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/30c7368d636f1692c5f95f49883b426c/play-services-auth-base-17.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/f9695fbd744b955793ce9f2a8f2d3e0b/play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/99a787af6634730e3ebe68712f076864/play-services-measurement-sdk-api-17.2.2/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/76110be1048601a8bb66aa6daf103745/play-services-measurement-base-17.2.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/9fb12ba13588e3595054e4dcaf1f786b/jetified-firebase-common-19.3.0/AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/09c88c84227ee01d918eef9cbb91ac97/play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/27087d09f5f3257456b1e177b10b321c/firebase-measurement-connector-18.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/54aa959801862e548ac02a9e19ef3858/play-services-places-placereport-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/738b7bf9f7db990140dfccba31f21cb4/play-services-ads-identifier-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/1b5be332afaa63d2446341872c65b4b5/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/f2af5c2ce3f98bd41d7b2eca8b3a7121/lifecycle-extensions-2.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/50dbb588b4a0b4d265efd008bab325b0/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/09d3e09133d1d02beb480c735ab37376/fragment-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/8b6212d503bb9d2b04873c02b85a0fff/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fd258e0b7e3afc966e6495772ff54373/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/df96ee4f20d32359b79ded70df09c0f0/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/12d91d724416ebe527f48c96b35395b9/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/edeb0164239eb443971914fe45bb0472/activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/890001024686b1672b2bfc5a23a53f0b/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/54f3164e45a0c799353e45df38a6adb1/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/6639ab226f1a321f80bb5b900ab55e4c/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/c628d99a25ada3b379becd2368b09461/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/4594dab7e03600e3d3f8955b569cdb63/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/a653ea3bf1e91da55a0ae0af6e1d3f81/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/aa6b17d6a93405c7112f9a05505d200a/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/12b9f80d7940b20fd2074e9692068e7f/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/71eed2c875b1c9c636ce3ddfcdf5d63d/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/41749401a211d325147832b1461630f9/jetified-firebase-components-16.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/8fe781a3725422dae52888473e1dadd7/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/eec6a06cbd29577adc5c8c79aff7f0df/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/45c1dd09c3c2d6179ec9f10f81485132/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/62e52d96694e32d2a64791f8cf0d78a7/firebase-encoders-json-16.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/af8d2cf0ac94df96f86598ed6bd99052/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/435f6e9e69e18e9abd7d500196465345/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/9e34ce8fc8cde0735e63ef1538d6eff0/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fc21afcf209a7a61fe02626380639eb9/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/af30b0323bac1cbce47c8d38de65aa35/sqlite-framework-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/4042d0203c833da04f66c87d80f5417c/sqlite-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/58a090e0f1550ef5d5e75ef1dbb1fac6/lifecycle-process-2.0.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/c0ccac44952af30800785eebe9c6288f/lifecycle-service-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/e4a96b1d8a6f24ff066bbbdae7bb16a7/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/05208d99c10f25c83ad8e8f1cd0dc11e/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/04d6be41dc91f5600e40b259b98f59dc/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/097724f711e926df9d675e1d56c4f922/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/5b49c5486e41f6cef08547f5c7a48ff0/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/3ac3f628bb830c2982f30a8262205375/jetified-android-maps-utils-0.5/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/a21ef97a4b0c9ea586e5b43ec7ba04c4/annotation-0.8.2/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/4c271cd67ad11ee71fb521babeb6a35a/jetified-fbcore-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/cffff9dcedc3e69903f1ea145e9b3d87/transport-api-2.2.0/AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.android.gms:play-services-wallet-license:11.8.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fc72a9844ad2cabaea57f0ff03b44412/play-services-wallet-license-11.8.0/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-identity-license:11.8.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/ccd34bd0eecc0abb75e3fb3a1b08866e/play-services-identity-license-11.8.0/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:2:3-25
+		INJECTED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:2:3-25
+		INJECTED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:1:1-40:12
+		INJECTED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:1:1-40:12
+		INJECTED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.facebook.flipper:flipper:0.33.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/5575668f30d3f7bf0c3766d1e09ffe2b/jetified-flipper-0.33.1/AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.33.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/5575668f30d3f7bf0c3766d1e09ffe2b/jetified-flipper-0.33.1/AndroidManifest.xml:15:5-67
+MERGED from [:lottie-react-native] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/lottie-react-native/src/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:lottie-react-native] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/lottie-react-native/src/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/6ae79be7141b0e0e3800c62d6cd75ee1/transport-backend-cct-2.2.0/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/6ae79be7141b0e0e3800c62d6cd75ee1/transport-backend-cct-2.2.0/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/e5abcd9a2c85d3df9455b0594c047112/play-services-measurement-api-17.2.2/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/e5abcd9a2c85d3df9455b0594c047112/play-services-measurement-api-17.2.2/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/650be9f20f75f16a764e727e11731074/firebase-iid-20.0.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/650be9f20f75f16a764e727e11731074/firebase-iid-20.0.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/d6daa6d9d19497996d7971db2d3d85a9/play-services-measurement-impl-17.2.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/d6daa6d9d19497996d7971db2d3d85a9/play-services-measurement-impl-17.2.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/9625e09df33125f138b13aaf49e104f8/play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/9625e09df33125f138b13aaf49e104f8/play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.razorpay:checkout:1.6.8] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/a729598ba7c6884f3198dc91a5cca2f8/checkout-1.6.8/AndroidManifest.xml:9:5-67
+MERGED from [com.razorpay:checkout:1.6.8] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/a729598ba7c6884f3198dc91a5cca2f8/checkout-1.6.8/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/99a787af6634730e3ebe68712f076864/play-services-measurement-sdk-api-17.2.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/99a787af6634730e3ebe68712f076864/play-services-measurement-sdk-api-17.2.2/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:5:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:7:5-80
+MERGED from [:react-native-maps] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-81
+MERGED from [:react-native-maps] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/6ae79be7141b0e0e3800c62d6cd75ee1/transport-backend-cct-2.2.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/6ae79be7141b0e0e3800c62d6cd75ee1/transport-backend-cct-2.2.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/36dde8357b13a33ada86951eec006b1b/transport-runtime-2.2.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/36dde8357b13a33ada86951eec006b1b/transport-runtime-2.2.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/e5abcd9a2c85d3df9455b0594c047112/play-services-measurement-api-17.2.2/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/e5abcd9a2c85d3df9455b0594c047112/play-services-measurement-api-17.2.2/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/650be9f20f75f16a764e727e11731074/firebase-iid-20.0.2/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/650be9f20f75f16a764e727e11731074/firebase-iid-20.0.2/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/d6daa6d9d19497996d7971db2d3d85a9/play-services-measurement-impl-17.2.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/d6daa6d9d19497996d7971db2d3d85a9/play-services-measurement-impl-17.2.2/AndroidManifest.xml:24:5-79
+MERGED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:24:5-79
+MERGED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/9625e09df33125f138b13aaf49e104f8/play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/9625e09df33125f138b13aaf49e104f8/play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/99a787af6634730e3ebe68712f076864/play-services-measurement-sdk-api-17.2.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/99a787af6634730e3ebe68712f076864/play-services-measurement-sdk-api-17.2.2/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:10:5-81
+MERGED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:25:5-81
+MERGED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:11:22-63
+application
+ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:13:5-38:19
+MERGED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:13:5-38:19
+MERGED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:13:5-38:19
+MERGED from [:react-native-community_datetimepicker] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/@react-native-community/datetimepicker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-20
+MERGED from [:react-native-community_datetimepicker] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/@react-native-community/datetimepicker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-20
+MERGED from [:react-native-exception-handler] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-exception-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-14:19
+MERGED from [:react-native-exception-handler] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-exception-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-14:19
+MERGED from [:react-native-fetch-blob] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-fetch-blob] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-image-picker] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-image-picker] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-razorpay] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-razorpay/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-15:19
+MERGED from [:react-native-razorpay] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-razorpay/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-15:19
+MERGED from [:tipsi-stripe] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/tipsi-stripe/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-31:19
+MERGED from [:tipsi-stripe] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/tipsi-stripe/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-31:19
+MERGED from [com.facebook.react:react-native:0.62.3] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/68f700d2e325951caf07d002a41279ff/jetified-react-native-0.62.3/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.62.3] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/68f700d2e325951caf07d002a41279ff/jetified-react-native-0.62.3/AndroidManifest.xml:11:5-20
+MERGED from [com.google.firebase:firebase-core:11.8.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/613f8a9b4e1e0edaea9b94cb9f470831/firebase-core-11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.8.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/613f8a9b4e1e0edaea9b94cb9f470831/firebase-core-11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/04f20e34c9de84425b8b08a98904a708/firebase-analytics-17.2.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/04f20e34c9de84425b8b08a98904a708/firebase-analytics-17.2.2/AndroidManifest.xml:7:5-20
+MERGED from [com.stripe:stripe-android:8.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/6f3b64bc4bbcd2393d2ce672c4e8aa6d/jetified-stripe-android-8.1.0/AndroidManifest.xml:11:5-25:19
+MERGED from [com.stripe:stripe-android:8.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/6f3b64bc4bbcd2393d2ce672c4e8aa6d/jetified-stripe-android-8.1.0/AndroidManifest.xml:11:5-25:19
+MERGED from [com.google.android.material:material:1.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fc3c1e15db594c67c8494a18755b8358/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fc3c1e15db594c67c8494a18755b8358/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/2b675c0ce215efa454479a31eec38336/soloader-0.8.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/2b675c0ce215efa454479a31eec38336/soloader-0.8.2/AndroidManifest.xml:11:5-20
+MERGED from [com.airbnb.android:lottie:3.4.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/f82040c9c87aa4fce4a0d0a53cc1d610/lottie-3.4.0/AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:lottie:3.4.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/f82040c9c87aa4fce4a0d0a53cc1d610/lottie-3.4.0/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-messaging:20.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/b863ecf1d60e6dc77c1250712ec6fab9/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:22:5-42:19
+MERGED from [com.google.firebase:firebase-messaging:20.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/b863ecf1d60e6dc77c1250712ec6fab9/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:22:5-42:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/608d7d80226dcbb5bb913cce7647ebf4/firebase-datatransport-17.0.3/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/608d7d80226dcbb5bb913cce7647ebf4/firebase-datatransport-17.0.3/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/6ae79be7141b0e0e3800c62d6cd75ee1/transport-backend-cct-2.2.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/6ae79be7141b0e0e3800c62d6cd75ee1/transport-backend-cct-2.2.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/36dde8357b13a33ada86951eec006b1b/transport-runtime-2.2.0/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/36dde8357b13a33ada86951eec006b1b/transport-runtime-2.2.0/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/e5abcd9a2c85d3df9455b0594c047112/play-services-measurement-api-17.2.2/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/e5abcd9a2c85d3df9455b0594c047112/play-services-measurement-api-17.2.2/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/324cd18643f77b9c70e8c1c3f2b9aafe/play-services-measurement-sdk-17.2.2/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/324cd18643f77b9c70e8c1c3f2b9aafe/play-services-measurement-sdk-17.2.2/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/650be9f20f75f16a764e727e11731074/firebase-iid-20.0.2/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/650be9f20f75f16a764e727e11731074/firebase-iid-20.0.2/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/d6daa6d9d19497996d7971db2d3d85a9/play-services-measurement-impl-17.2.2/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/d6daa6d9d19497996d7971db2d3d85a9/play-services-measurement-impl-17.2.2/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/360808d70cfd7b0a9ee8e6d355dfa215/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/360808d70cfd7b0a9ee8e6d355dfa215/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:27:5-121:19
+MERGED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:27:5-121:19
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fa13c25062027a0ebcf7dedf4f3d6860/play-services-location-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fa13c25062027a0ebcf7dedf4f3d6860/play-services-location-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/9625e09df33125f138b13aaf49e104f8/play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/9625e09df33125f138b13aaf49e104f8/play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/ea830cdc8d2c4eab77592a25e04d7cc2/firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/ea830cdc8d2c4eab77592a25e04d7cc2/firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.razorpay:checkout:1.6.8] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/a729598ba7c6884f3198dc91a5cca2f8/checkout-1.6.8/AndroidManifest.xml:11:5-30:19
+MERGED from [com.razorpay:checkout:1.6.8] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/a729598ba7c6884f3198dc91a5cca2f8/checkout-1.6.8/AndroidManifest.xml:11:5-30:19
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/63f5385c09c68f379b6a1c31dda80725/play-services-auth-17.0.0/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/63f5385c09c68f379b6a1c31dda80725/play-services-auth-17.0.0/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-identity:11.8.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/e8ea488174d3eb64857ddb6d6d345c18/play-services-identity-11.8.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:11.8.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/e8ea488174d3eb64857ddb6d6d345c18/play-services-identity-11.8.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/f9695fbd744b955793ce9f2a8f2d3e0b/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/f9695fbd744b955793ce9f2a8f2d3e0b/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/76110be1048601a8bb66aa6daf103745/play-services-measurement-base-17.2.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/76110be1048601a8bb66aa6daf103745/play-services-measurement-base-17.2.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/9fb12ba13588e3595054e4dcaf1f786b/jetified-firebase-common-19.3.0/AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/9fb12ba13588e3595054e4dcaf1f786b/jetified-firebase-common-19.3.0/AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/09c88c84227ee01d918eef9cbb91ac97/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/09c88c84227ee01d918eef9cbb91ac97/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/27087d09f5f3257456b1e177b10b321c/firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/27087d09f5f3257456b1e177b10b321c/firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/54aa959801862e548ac02a9e19ef3858/play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/54aa959801862e548ac02a9e19ef3858/play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/738b7bf9f7db990140dfccba31f21cb4/play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/738b7bf9f7db990140dfccba31f21cb4/play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/1b5be332afaa63d2446341872c65b4b5/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/1b5be332afaa63d2446341872c65b4b5/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/f2af5c2ce3f98bd41d7b2eca8b3a7121/lifecycle-extensions-2.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/f2af5c2ce3f98bd41d7b2eca8b3a7121/lifecycle-extensions-2.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.core:core:1.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/12b9f80d7940b20fd2074e9692068e7f/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/12b9f80d7940b20fd2074e9692068e7f/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/af8d2cf0ac94df96f86598ed6bd99052/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/af8d2cf0ac94df96f86598ed6bd99052/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/58a090e0f1550ef5d5e75ef1dbb1fac6/lifecycle-process-2.0.0/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/58a090e0f1550ef5d5e75ef1dbb1fac6/lifecycle-process-2.0.0/AndroidManifest.xml:22:5-28:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/3ac3f628bb830c2982f30a8262205375/jetified-android-maps-utils-0.5/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/3ac3f628bb830c2982f30a8262205375/jetified-android-maps-utils-0.5/AndroidManifest.xml:7:5-11:19
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/a21ef97a4b0c9ea586e5b43ec7ba04c4/annotation-0.8.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/a21ef97a4b0c9ea586e5b43ec7ba04c4/annotation-0.8.2/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-wallet-license:11.8.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fc72a9844ad2cabaea57f0ff03b44412/play-services-wallet-license-11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-wallet-license:11.8.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fc72a9844ad2cabaea57f0ff03b44412/play-services-wallet-license-11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-identity-license:11.8.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/ccd34bd0eecc0abb75e3fb3a1b08866e/play-services-identity-license-11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-identity-license:11.8.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/ccd34bd0eecc0abb75e3fb3a1b08866e/play-services-identity-license-11.8.0/AndroidManifest.xml:5:5-20
+	android:requestLegacyExternalStorage
+		ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:22:7-50
+		ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:22:7-50
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/12b9f80d7940b20fd2074e9692068e7f/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:15:7-39
+		ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:15:7-39
+	tools:ignore
+		ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:17:7-52
+		ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:17:7-52
+	tools:targetApi
+		ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:16:7-41
+		ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:16:7-41
+	android:allowBackup
+		ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:18:7-34
+		ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:18:7-34
+	android:theme
+		ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:21:7-38
+		ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:21:7-38
+	android:networkSecurityConfig
+		ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:20:7-67
+		ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:20:7-67
+	android:usesCleartextTraffic
+		ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:19:7-42
+	android:name
+		ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:14:7-38
+		ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:14:7-38
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:23:7-25:66
+	android:value
+		ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:25:9-64
+	android:name
+		ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:24:9-54
+activity#com.amb.user.MainActivity
+ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:26:7-36:18
+	android:label
+		ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:28:9-41
+	android:launchMode
+		ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:30:9-39
+	android:windowSoftInputMode
+		ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:31:9-51
+	android:configChanges
+		ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:29:9-86
+	android:name
+		ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:27:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:32:9-35:25
+action#android.intent.action.MAIN
+ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:33:13-65
+	android:name
+		ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:33:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:34:13-73
+	android:name
+		ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:34:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:37:7-84
+	android:name
+		ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:37:17-81
+uses-sdk
+INJECTED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.flipper:flipper:0.33.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/5575668f30d3f7bf0c3766d1e09ffe2b/jetified-flipper-0.33.1/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.33.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/5575668f30d3f7bf0c3766d1e09ffe2b/jetified-flipper-0.33.1/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.33.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/633198780c3c5282b274c42d9366e4c7/flipper-network-plugin-0.33.1/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.33.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/633198780c3c5282b274c42d9366e4c7/flipper-network-plugin-0.33.1/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.33.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/014f74d9da94ba0ac50d216c40b25a16/flipper-fresco-plugin-0.33.1/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.33.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/014f74d9da94ba0ac50d216c40b25a16/flipper-fresco-plugin-0.33.1/AndroidManifest.xml:11:5-13:41
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/8cb6c5386f626f716dcbb9d938b80eb5/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/8cb6c5386f626f716dcbb9d938b80eb5/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [:react-native-google-signin] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-google-signin/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-google-signin] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-google-signin/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_async-storage] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_async-storage] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_datetimepicker] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/@react-native-community/datetimepicker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_datetimepicker] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/@react-native-community/datetimepicker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_geolocation] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_geolocation] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_toolbar-android] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/@react-native-community/toolbar-android/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_toolbar-android] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/@react-native-community/toolbar-android/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:lottie-react-native] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/lottie-react-native/src/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:lottie-react-native] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/lottie-react-native/src/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-android-location-enabler] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-android-location-enabler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-android-location-enabler] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-android-location-enabler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-exception-handler] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-exception-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-exception-handler] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-exception-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fetch-blob] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fetch-blob] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase-push-notifications] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-firebase-push-notifications/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase-push-notifications] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-firebase-push-notifications/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-picker] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-razorpay] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-razorpay/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-razorpay] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-razorpay/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-scratch] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-scratch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-scratch] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-scratch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-svg] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:tipsi-stripe] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/tipsi-stripe/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:tipsi-stripe] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/tipsi-stripe/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.62.3] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/68f700d2e325951caf07d002a41279ff/jetified-react-native-0.62.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.62.3] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/68f700d2e325951caf07d002a41279ff/jetified-react-native-0.62.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-core:11.8.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/613f8a9b4e1e0edaea9b94cb9f470831/firebase-core-11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.8.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/613f8a9b4e1e0edaea9b94cb9f470831/firebase-core-11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/04f20e34c9de84425b8b08a98904a708/firebase-analytics-17.2.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/04f20e34c9de84425b8b08a98904a708/firebase-analytics-17.2.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/db6fcefd8c370c33b03eb74e2fbda3da/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/db6fcefd8c370c33b03eb74e2fbda3da/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.tipsi:CreditCardEntry:1.5.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/95b08adada6039b22c614288befa84a5/jetified-CreditCardEntry-1.5.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.tipsi:CreditCardEntry:1.5.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/95b08adada6039b22c614288befa84a5/jetified-CreditCardEntry-1.5.1/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/330121b8e92b740fb6419c1db7a7e714/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/330121b8e92b740fb6419c1db7a7e714/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/b554e698e493673f5bf2fb89b871cd07/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/b554e698e493673f5bf2fb89b871cd07/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.stripe:stripe-android:8.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/6f3b64bc4bbcd2393d2ce672c4e8aa6d/jetified-stripe-android-8.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.stripe:stripe-android:8.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/6f3b64bc4bbcd2393d2ce672c4e8aa6d/jetified-stripe-android-8.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fc3c1e15db594c67c8494a18755b8358/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fc3c1e15db594c67c8494a18755b8358/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r245459] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/7409e4eab58cbddd5e11fa088431bd0b/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/7409e4eab58cbddd5e11fa088431bd0b/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:flipper:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/b497d64123b025beb665b5cbbc3a4976/flipper-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/b497d64123b025beb665b5cbbc3a4976/flipper-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/0a185677e8f74add56d548189f0463fd/stetho-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/0a185677e8f74add56d548189f0463fd/stetho-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/8fbb18d33fdb4dc2084da93ede3841be/fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/8fbb18d33fdb4dc2084da93ede3841be/fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/d4104d5ce9102d6a4b11a7fa9d760c50/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/d4104d5ce9102d6a4b11a7fa9d760c50/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/beff4b448ce2ca63c9679874e9d144a7/drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/beff4b448ce2ca63c9679874e9d144a7/drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/4bd757098a70d59e0a33d96795318088/nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/4bd757098a70d59e0a33d96795318088/nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/209038031caf675f527e471c3eb38e9f/imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/209038031caf675f527e471c3eb38e9f/imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/dd451766a2eb5aed591e5751551dd625/nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/dd451766a2eb5aed591e5751551dd625/nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/ad10dc86932e34dc591bb02184c87698/imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/ad10dc86932e34dc591bb02184c87698/imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/2b675c0ce215efa454479a31eec38336/soloader-0.8.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/2b675c0ce215efa454479a31eec38336/soloader-0.8.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.airbnb.android:lottie:3.4.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/f82040c9c87aa4fce4a0d0a53cc1d610/lottie-3.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:3.4.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/f82040c9c87aa4fce4a0d0a53cc1d610/lottie-3.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/d5155d59bc3875d45f6a6ffe92894573/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/d5155d59bc3875d45f6a6ffe92894573/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-messaging:20.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/b863ecf1d60e6dc77c1250712ec6fab9/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/b863ecf1d60e6dc77c1250712ec6fab9/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/608d7d80226dcbb5bb913cce7647ebf4/firebase-datatransport-17.0.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/608d7d80226dcbb5bb913cce7647ebf4/firebase-datatransport-17.0.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/6ae79be7141b0e0e3800c62d6cd75ee1/transport-backend-cct-2.2.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/6ae79be7141b0e0e3800c62d6cd75ee1/transport-backend-cct-2.2.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/36dde8357b13a33ada86951eec006b1b/transport-runtime-2.2.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/36dde8357b13a33ada86951eec006b1b/transport-runtime-2.2.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/e5abcd9a2c85d3df9455b0594c047112/play-services-measurement-api-17.2.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/e5abcd9a2c85d3df9455b0594c047112/play-services-measurement-api-17.2.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/324cd18643f77b9c70e8c1c3f2b9aafe/play-services-measurement-sdk-17.2.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/324cd18643f77b9c70e8c1c3f2b9aafe/play-services-measurement-sdk-17.2.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/092c0a86c587077928690eb9e929f102/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/092c0a86c587077928690eb9e929f102/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/9b0c0521a8dad06cf7193cd0233376ba/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/9b0c0521a8dad06cf7193cd0233376ba/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/e23b411c4b015bfa5c57774b50f7cfc7/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/e23b411c4b015bfa5c57774b50f7cfc7/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/650be9f20f75f16a764e727e11731074/firebase-iid-20.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/650be9f20f75f16a764e727e11731074/firebase-iid-20.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/d6daa6d9d19497996d7971db2d3d85a9/play-services-measurement-impl-17.2.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/d6daa6d9d19497996d7971db2d3d85a9/play-services-measurement-impl-17.2.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/360808d70cfd7b0a9ee8e6d355dfa215/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/360808d70cfd7b0a9ee8e6d355dfa215/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:21:5-44
+MERGED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/e79bd5cfc3f6b6f41996e88c57cb3983/room-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/e79bd5cfc3f6b6f41996e88c57cb3983/room-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/a0da4274783150378d2827d348bd711f/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/a0da4274783150378d2827d348bd711f/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fa13c25062027a0ebcf7dedf4f3d6860/play-services-location-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fa13c25062027a0ebcf7dedf4f3d6860/play-services-location-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-wallet:11.8.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/95ea294fd29eaa62e43868b5d1bb6191/jetified-play-services-wallet-11.8.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:11.8.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/95ea294fd29eaa62e43868b5d1bb6191/jetified-play-services-wallet-11.8.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/9625e09df33125f138b13aaf49e104f8/play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/9625e09df33125f138b13aaf49e104f8/play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/ea830cdc8d2c4eab77592a25e04d7cc2/firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/ea830cdc8d2c4eab77592a25e04d7cc2/firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.razorpay:checkout:1.6.8] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/a729598ba7c6884f3198dc91a5cca2f8/checkout-1.6.8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.razorpay:checkout:1.6.8] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/a729598ba7c6884f3198dc91a5cca2f8/checkout-1.6.8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/63f5385c09c68f379b6a1c31dda80725/play-services-auth-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/63f5385c09c68f379b6a1c31dda80725/play-services-auth-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/5ba9ac7d0dae5c0743ae1473a3acc41d/play-services-auth-api-phone-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/5ba9ac7d0dae5c0743ae1473a3acc41d/play-services-auth-api-phone-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-identity:11.8.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/e8ea488174d3eb64857ddb6d6d345c18/play-services-identity-11.8.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:11.8.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/e8ea488174d3eb64857ddb6d6d345c18/play-services-identity-11.8.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/30c7368d636f1692c5f95f49883b426c/play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/30c7368d636f1692c5f95f49883b426c/play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/f9695fbd744b955793ce9f2a8f2d3e0b/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/f9695fbd744b955793ce9f2a8f2d3e0b/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/99a787af6634730e3ebe68712f076864/play-services-measurement-sdk-api-17.2.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/99a787af6634730e3ebe68712f076864/play-services-measurement-sdk-api-17.2.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/76110be1048601a8bb66aa6daf103745/play-services-measurement-base-17.2.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/76110be1048601a8bb66aa6daf103745/play-services-measurement-base-17.2.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/9fb12ba13588e3595054e4dcaf1f786b/jetified-firebase-common-19.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/9fb12ba13588e3595054e4dcaf1f786b/jetified-firebase-common-19.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/09c88c84227ee01d918eef9cbb91ac97/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/09c88c84227ee01d918eef9cbb91ac97/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/27087d09f5f3257456b1e177b10b321c/firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/27087d09f5f3257456b1e177b10b321c/firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/54aa959801862e548ac02a9e19ef3858/play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/54aa959801862e548ac02a9e19ef3858/play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/738b7bf9f7db990140dfccba31f21cb4/play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/738b7bf9f7db990140dfccba31f21cb4/play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/1b5be332afaa63d2446341872c65b4b5/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/1b5be332afaa63d2446341872c65b4b5/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/f2af5c2ce3f98bd41d7b2eca8b3a7121/lifecycle-extensions-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/f2af5c2ce3f98bd41d7b2eca8b3a7121/lifecycle-extensions-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/50dbb588b4a0b4d265efd008bab325b0/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/50dbb588b4a0b4d265efd008bab325b0/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/09d3e09133d1d02beb480c735ab37376/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/09d3e09133d1d02beb480c735ab37376/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/8b6212d503bb9d2b04873c02b85a0fff/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/8b6212d503bb9d2b04873c02b85a0fff/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fd258e0b7e3afc966e6495772ff54373/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fd258e0b7e3afc966e6495772ff54373/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/df96ee4f20d32359b79ded70df09c0f0/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/df96ee4f20d32359b79ded70df09c0f0/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/12d91d724416ebe527f48c96b35395b9/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/12d91d724416ebe527f48c96b35395b9/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/edeb0164239eb443971914fe45bb0472/activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/edeb0164239eb443971914fe45bb0472/activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/890001024686b1672b2bfc5a23a53f0b/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/890001024686b1672b2bfc5a23a53f0b/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/54f3164e45a0c799353e45df38a6adb1/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/54f3164e45a0c799353e45df38a6adb1/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/6639ab226f1a321f80bb5b900ab55e4c/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/6639ab226f1a321f80bb5b900ab55e4c/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/c628d99a25ada3b379becd2368b09461/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/c628d99a25ada3b379becd2368b09461/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/4594dab7e03600e3d3f8955b569cdb63/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/4594dab7e03600e3d3f8955b569cdb63/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/a653ea3bf1e91da55a0ae0af6e1d3f81/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/a653ea3bf1e91da55a0ae0af6e1d3f81/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/aa6b17d6a93405c7112f9a05505d200a/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/aa6b17d6a93405c7112f9a05505d200a/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/12b9f80d7940b20fd2074e9692068e7f/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/12b9f80d7940b20fd2074e9692068e7f/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/71eed2c875b1c9c636ce3ddfcdf5d63d/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/71eed2c875b1c9c636ce3ddfcdf5d63d/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/41749401a211d325147832b1461630f9/jetified-firebase-components-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/41749401a211d325147832b1461630f9/jetified-firebase-components-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/8fe781a3725422dae52888473e1dadd7/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/8fe781a3725422dae52888473e1dadd7/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/eec6a06cbd29577adc5c8c79aff7f0df/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/eec6a06cbd29577adc5c8c79aff7f0df/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/45c1dd09c3c2d6179ec9f10f81485132/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/45c1dd09c3c2d6179ec9f10f81485132/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/62e52d96694e32d2a64791f8cf0d78a7/firebase-encoders-json-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/62e52d96694e32d2a64791f8cf0d78a7/firebase-encoders-json-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/af8d2cf0ac94df96f86598ed6bd99052/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/af8d2cf0ac94df96f86598ed6bd99052/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/435f6e9e69e18e9abd7d500196465345/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/435f6e9e69e18e9abd7d500196465345/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/9e34ce8fc8cde0735e63ef1538d6eff0/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/9e34ce8fc8cde0735e63ef1538d6eff0/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fc21afcf209a7a61fe02626380639eb9/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fc21afcf209a7a61fe02626380639eb9/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/af30b0323bac1cbce47c8d38de65aa35/sqlite-framework-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/af30b0323bac1cbce47c8d38de65aa35/sqlite-framework-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/4042d0203c833da04f66c87d80f5417c/sqlite-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/4042d0203c833da04f66c87d80f5417c/sqlite-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/58a090e0f1550ef5d5e75ef1dbb1fac6/lifecycle-process-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/58a090e0f1550ef5d5e75ef1dbb1fac6/lifecycle-process-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/c0ccac44952af30800785eebe9c6288f/lifecycle-service-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/c0ccac44952af30800785eebe9c6288f/lifecycle-service-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/e4a96b1d8a6f24ff066bbbdae7bb16a7/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/e4a96b1d8a6f24ff066bbbdae7bb16a7/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/05208d99c10f25c83ad8e8f1cd0dc11e/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/05208d99c10f25c83ad8e8f1cd0dc11e/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/04d6be41dc91f5600e40b259b98f59dc/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/04d6be41dc91f5600e40b259b98f59dc/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/097724f711e926df9d675e1d56c4f922/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/097724f711e926df9d675e1d56c4f922/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/5b49c5486e41f6cef08547f5c7a48ff0/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/5b49c5486e41f6cef08547f5c7a48ff0/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/3ac3f628bb830c2982f30a8262205375/jetified-android-maps-utils-0.5/AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/3ac3f628bb830c2982f30a8262205375/jetified-android-maps-utils-0.5/AndroidManifest.xml:5:5-43
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/a21ef97a4b0c9ea586e5b43ec7ba04c4/annotation-0.8.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/a21ef97a4b0c9ea586e5b43ec7ba04c4/annotation-0.8.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/4c271cd67ad11ee71fb521babeb6a35a/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/4c271cd67ad11ee71fb521babeb6a35a/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/cffff9dcedc3e69903f1ea145e9b3d87/transport-api-2.2.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/cffff9dcedc3e69903f1ea145e9b3d87/transport-api-2.2.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.gms:play-services-wallet-license:11.8.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fc72a9844ad2cabaea57f0ff03b44412/play-services-wallet-license-11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-wallet-license:11.8.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fc72a9844ad2cabaea57f0ff03b44412/play-services-wallet-license-11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-identity-license:11.8.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/ccd34bd0eecc0abb75e3fb3a1b08866e/play-services-identity-license-11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-identity-license:11.8.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/ccd34bd0eecc0abb75e3fb3a1b08866e/play-services-identity-license-11.8.0/AndroidManifest.xml:4:5-43
+INJECTED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/debug/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.33.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/5575668f30d3f7bf0c3766d1e09ffe2b/jetified-flipper-0.33.1/AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.33.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/5575668f30d3f7bf0c3766d1e09ffe2b/jetified-flipper-0.33.1/AndroidManifest.xml:16:22-73
+activity#com.masteratul.exceptionhandler.DefaultErrorScreen
+ADDED from [:react-native-exception-handler] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-exception-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-13:20
+	android:name
+		ADDED from [:react-native-exception-handler] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-exception-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:19-84
+provider#com.imagepicker.FileProvider
+ADDED from [:react-native-image-picker] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-60
+	android:exported
+		ADDED from [:react-native-image-picker] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:react-native-image-picker] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-56
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-picker] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-17:58
+	android:resource
+		ADDED from [:react-native-image-picker] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-55
+	android:name
+		ADDED from [:react-native-image-picker] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:17-67
+activity#com.razorpay.CheckoutActivity
+ADDED from [:react-native-razorpay] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-razorpay/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-14:86
+MERGED from [com.razorpay:checkout:1.6.8] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/a729598ba7c6884f3198dc91a5cca2f8/checkout-1.6.8/AndroidManifest.xml:18:9-29:20
+MERGED from [com.razorpay:checkout:1.6.8] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/a729598ba7c6884f3198dc91a5cca2f8/checkout-1.6.8/AndroidManifest.xml:18:9-29:20
+	android:configChanges
+		ADDED from [:react-native-razorpay] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-razorpay/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-83
+	android:theme
+		ADDED from [com.razorpay:checkout:1.6.8] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/a729598ba7c6884f3198dc91a5cca2f8/checkout-1.6.8/AndroidManifest.xml:21:13-49
+	android:name
+		ADDED from [:react-native-razorpay] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-razorpay/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-57
+activity#com.gettipsi.stripe.OpenBrowserActivity
+ADDED from [:tipsi-stripe] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/tipsi-stripe/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-16:75
+	android:launchMode
+		ADDED from [:tipsi-stripe] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/tipsi-stripe/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-44
+	android:exported
+		ADDED from [:tipsi-stripe] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/tipsi-stripe/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-37
+	android:theme
+		ADDED from [:tipsi-stripe] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/tipsi-stripe/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-72
+	android:name
+		ADDED from [:tipsi-stripe] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/tipsi-stripe/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-67
+activity#com.gettipsi.stripe.RedirectUriReceiver
+ADDED from [:tipsi-stripe] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/tipsi-stripe/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:9-30:20
+	android:launchMode
+		ADDED from [:tipsi-stripe] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/tipsi-stripe/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-44
+	android:exported
+		ADDED from [:tipsi-stripe] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/tipsi-stripe/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-36
+	android:theme
+		ADDED from [:tipsi-stripe] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/tipsi-stripe/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:13-83
+	android:name
+		ADDED from [:tipsi-stripe] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/tipsi-stripe/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-67
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:example
+ADDED from [:tipsi-stripe] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/tipsi-stripe/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:13-29:29
+action#android.intent.action.VIEW
+ADDED from [:tipsi-stripe] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/tipsi-stripe/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from [:tipsi-stripe] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/tipsi-stripe/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:25-66
+category#android.intent.category.DEFAULT
+ADDED from [:tipsi-stripe] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/tipsi-stripe/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:17-76
+	android:name
+		ADDED from [:tipsi-stripe] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/tipsi-stripe/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [:tipsi-stripe] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/tipsi-stripe/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:17-78
+	android:name
+		ADDED from [:tipsi-stripe] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/tipsi-stripe/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:27-75
+data
+ADDED from [:tipsi-stripe] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/tipsi-stripe/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:17-50
+	android:scheme
+		ADDED from [:tipsi-stripe] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/tipsi-stripe/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:23-47
+activity#com.stripe.android.view.AddSourceActivity
+ADDED from [com.stripe:stripe-android:8.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/6f3b64bc4bbcd2393d2ce672c4e8aa6d/jetified-stripe-android-8.1.0/AndroidManifest.xml:12:9-16:20
+	android:windowSoftInputMode
+		ADDED from [com.stripe:stripe-android:8.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/6f3b64bc4bbcd2393d2ce672c4e8aa6d/jetified-stripe-android-8.1.0/AndroidManifest.xml:15:13-55
+	android:theme
+		ADDED from [com.stripe:stripe-android:8.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/6f3b64bc4bbcd2393d2ce672c4e8aa6d/jetified-stripe-android-8.1.0/AndroidManifest.xml:14:13-54
+	android:name
+		ADDED from [com.stripe:stripe-android:8.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/6f3b64bc4bbcd2393d2ce672c4e8aa6d/jetified-stripe-android-8.1.0/AndroidManifest.xml:13:13-69
+activity#com.stripe.android.view.PaymentMethodsActivity
+ADDED from [com.stripe:stripe-android:8.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/6f3b64bc4bbcd2393d2ce672c4e8aa6d/jetified-stripe-android-8.1.0/AndroidManifest.xml:17:9-20:20
+	android:theme
+		ADDED from [com.stripe:stripe-android:8.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/6f3b64bc4bbcd2393d2ce672c4e8aa6d/jetified-stripe-android-8.1.0/AndroidManifest.xml:19:13-54
+	android:name
+		ADDED from [com.stripe:stripe-android:8.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/6f3b64bc4bbcd2393d2ce672c4e8aa6d/jetified-stripe-android-8.1.0/AndroidManifest.xml:18:13-74
+activity#com.stripe.android.view.PaymentFlowActivity
+ADDED from [com.stripe:stripe-android:8.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/6f3b64bc4bbcd2393d2ce672c4e8aa6d/jetified-stripe-android-8.1.0/AndroidManifest.xml:21:9-24:20
+	android:theme
+		ADDED from [com.stripe:stripe-android:8.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/6f3b64bc4bbcd2393d2ce672c4e8aa6d/jetified-stripe-android-8.1.0/AndroidManifest.xml:23:13-54
+	android:name
+		ADDED from [com.stripe:stripe-android:8.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/6f3b64bc4bbcd2393d2ce672c4e8aa6d/jetified-stripe-android-8.1.0/AndroidManifest.xml:22:13-71
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:20.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/b863ecf1d60e6dc77c1250712ec6fab9/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:20.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/b863ecf1d60e6dc77c1250712ec6fab9/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:20.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/b863ecf1d60e6dc77c1250712ec6fab9/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:29:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:20.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/b863ecf1d60e6dc77c1250712ec6fab9/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:20.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/b863ecf1d60e6dc77c1250712ec6fab9/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:31:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:20.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/b863ecf1d60e6dc77c1250712ec6fab9/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:20.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/b863ecf1d60e6dc77c1250712ec6fab9/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:32:25-75
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-messaging:20.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/b863ecf1d60e6dc77c1250712ec6fab9/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:35:9-41:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/608d7d80226dcbb5bb913cce7647ebf4/firebase-datatransport-17.0.3/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/608d7d80226dcbb5bb913cce7647ebf4/firebase-datatransport-17.0.3/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/e5abcd9a2c85d3df9455b0594c047112/play-services-measurement-api-17.2.2/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/e5abcd9a2c85d3df9455b0594c047112/play-services-measurement-api-17.2.2/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/650be9f20f75f16a764e727e11731074/firebase-iid-20.0.2/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/650be9f20f75f16a764e727e11731074/firebase-iid-20.0.2/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/9fb12ba13588e3595054e4dcaf1f786b/jetified-firebase-common-19.3.0/AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/9fb12ba13588e3595054e4dcaf1f786b/jetified-firebase-common-19.3.0/AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:20.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/b863ecf1d60e6dc77c1250712ec6fab9/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:37:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/9fb12ba13588e3595054e4dcaf1f786b/jetified-firebase-common-19.3.0/AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/9fb12ba13588e3595054e4dcaf1f786b/jetified-firebase-common-19.3.0/AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:20.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/b863ecf1d60e6dc77c1250712ec6fab9/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:36:13-84
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:20.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/b863ecf1d60e6dc77c1250712ec6fab9/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:38:13-40:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:20.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/b863ecf1d60e6dc77c1250712ec6fab9/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:40:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:20.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/b863ecf1d60e6dc77c1250712ec6fab9/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:39:17-119
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/608d7d80226dcbb5bb913cce7647ebf4/firebase-datatransport-17.0.3/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/608d7d80226dcbb5bb913cce7647ebf4/firebase-datatransport-17.0.3/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/608d7d80226dcbb5bb913cce7647ebf4/firebase-datatransport-17.0.3/AndroidManifest.xml:29:17-115
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/6ae79be7141b0e0e3800c62d6cd75ee1/transport-backend-cct-2.2.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/36dde8357b13a33ada86951eec006b1b/transport-runtime-2.2.0/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/36dde8357b13a33ada86951eec006b1b/transport-runtime-2.2.0/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/6ae79be7141b0e0e3800c62d6cd75ee1/transport-backend-cct-2.2.0/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/6ae79be7141b0e0e3800c62d6cd75ee1/transport-backend-cct-2.2.0/AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/6ae79be7141b0e0e3800c62d6cd75ee1/transport-backend-cct-2.2.0/AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/6ae79be7141b0e0e3800c62d6cd75ee1/transport-backend-cct-2.2.0/AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/6ae79be7141b0e0e3800c62d6cd75ee1/transport-backend-cct-2.2.0/AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/36dde8357b13a33ada86951eec006b1b/transport-runtime-2.2.0/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/36dde8357b13a33ada86951eec006b1b/transport-runtime-2.2.0/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/36dde8357b13a33ada86951eec006b1b/transport-runtime-2.2.0/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/36dde8357b13a33ada86951eec006b1b/transport-runtime-2.2.0/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/36dde8357b13a33ada86951eec006b1b/transport-runtime-2.2.0/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/36dde8357b13a33ada86951eec006b1b/transport-runtime-2.2.0/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/36dde8357b13a33ada86951eec006b1b/transport-runtime-2.2.0/AndroidManifest.xml:33:13-132
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/e5abcd9a2c85d3df9455b0594c047112/play-services-measurement-api-17.2.2/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/e5abcd9a2c85d3df9455b0594c047112/play-services-measurement-api-17.2.2/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/650be9f20f75f16a764e727e11731074/firebase-iid-20.0.2/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/650be9f20f75f16a764e727e11731074/firebase-iid-20.0.2/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/d6daa6d9d19497996d7971db2d3d85a9/play-services-measurement-impl-17.2.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/d6daa6d9d19497996d7971db2d3d85a9/play-services-measurement-impl-17.2.2/AndroidManifest.xml:25:5-68
+MERGED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:23:5-68
+MERGED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:23:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/99a787af6634730e3ebe68712f076864/play-services-measurement-sdk-api-17.2.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/99a787af6634730e3ebe68712f076864/play-services-measurement-sdk-api-17.2.2/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:25:22-65
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/d6daa6d9d19497996d7971db2d3d85a9/play-services-measurement-impl-17.2.2/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/d6daa6d9d19497996d7971db2d3d85a9/play-services-measurement-impl-17.2.2/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/d6daa6d9d19497996d7971db2d3d85a9/play-services-measurement-impl-17.2.2/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/d6daa6d9d19497996d7971db2d3d85a9/play-services-measurement-impl-17.2.2/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:49:13-87
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/e5abcd9a2c85d3df9455b0594c047112/play-services-measurement-api-17.2.2/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/e5abcd9a2c85d3df9455b0594c047112/play-services-measurement-api-17.2.2/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/e5abcd9a2c85d3df9455b0594c047112/play-services-measurement-api-17.2.2/AndroidManifest.xml:31:17-139
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/650be9f20f75f16a764e727e11731074/firebase-iid-20.0.2/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/650be9f20f75f16a764e727e11731074/firebase-iid-20.0.2/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:20.0.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/650be9f20f75f16a764e727e11731074/firebase-iid-20.0.2/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:20.0.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/650be9f20f75f16a764e727e11731074/firebase-iid-20.0.2/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/650be9f20f75f16a764e727e11731074/firebase-iid-20.0.2/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:20.0.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/650be9f20f75f16a764e727e11731074/firebase-iid-20.0.2/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:20.0.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/650be9f20f75f16a764e727e11731074/firebase-iid-20.0.2/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:20.0.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/650be9f20f75f16a764e727e11731074/firebase-iid-20.0.2/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/650be9f20f75f16a764e727e11731074/firebase-iid-20.0.2/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/650be9f20f75f16a764e727e11731074/firebase-iid-20.0.2/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/650be9f20f75f16a764e727e11731074/firebase-iid-20.0.2/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/650be9f20f75f16a764e727e11731074/firebase-iid-20.0.2/AndroidManifest.xml:42:25-78
+provider#androidx.work.impl.WorkManagerInitializer
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:28:9-34:35
+	android:authorities
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:30:13-68
+	android:multiprocess
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:33:13-40
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:32:13-37
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:31:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:29:13-69
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:36:9-41:35
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:39:13-72
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:40:13-37
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:41:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:38:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:37:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:42:9-48:35
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:45:13-70
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:46:13-36
+	android:permission
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:47:13-69
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:48:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:44:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:43:13-84
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:50:9-55:35
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:53:13-35
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:54:13-37
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:55:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:52:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:51:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:56:9-66:20
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:59:13-36
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:60:13-37
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:61:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:58:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:57:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:62:13-65:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:63:17-87
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:63:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:64:17-90
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:64:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:67:9-77:20
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:70:13-36
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:71:13-37
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:72:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:69:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:68:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:73:13-76:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:74:17-77
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:74:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:75:17-76
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:75:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:78:9-88:20
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:81:13-36
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:82:13-37
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:83:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:80:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:79:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:84:13-87:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:85:17-83
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:85:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:86:17-82
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:86:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:89:9-98:20
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:92:13-36
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:93:13-37
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:94:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:90:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:95:13-97:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:96:17-79
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:96:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:99:9-110:20
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:102:13-36
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:103:13-37
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:104:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:101:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:100:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:105:13-109:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:106:17-79
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:106:25-76
+action#android.intent.action.TIME_SET
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:107:17-73
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:107:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:108:17-81
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:108:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:111:9-120:20
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:114:13-72
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:115:13-37
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:116:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:113:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:112:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:117:13-119:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:118:17-98
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:118:25-95
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/9625e09df33125f138b13aaf49e104f8/play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/9625e09df33125f138b13aaf49e104f8/play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/9625e09df33125f138b13aaf49e104f8/play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/9625e09df33125f138b13aaf49e104f8/play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/9625e09df33125f138b13aaf49e104f8/play-services-maps-17.0.0/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/9625e09df33125f138b13aaf49e104f8/play-services-maps-17.0.0/AndroidManifest.xml:34:13-50
+receiver#com.razorpay.RzpTokenReceiver
+ADDED from [com.razorpay:checkout:1.6.8] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/a729598ba7c6884f3198dc91a5cca2f8/checkout-1.6.8/AndroidManifest.xml:12:9-16:20
+	android:name
+		ADDED from [com.razorpay:checkout:1.6.8] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/a729598ba7c6884f3198dc91a5cca2f8/checkout-1.6.8/AndroidManifest.xml:12:19-63
+intent-filter#action:name:rzp.device_token.share
+ADDED from [com.razorpay:checkout:1.6.8] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/a729598ba7c6884f3198dc91a5cca2f8/checkout-1.6.8/AndroidManifest.xml:13:13-15:29
+action#rzp.device_token.share
+ADDED from [com.razorpay:checkout:1.6.8] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/a729598ba7c6884f3198dc91a5cca2f8/checkout-1.6.8/AndroidManifest.xml:14:17-65
+	android:name
+		ADDED from [com.razorpay:checkout:1.6.8] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/a729598ba7c6884f3198dc91a5cca2f8/checkout-1.6.8/AndroidManifest.xml:14:25-62
+intent-filter#action:name:android.intent.action.MAIN+data:host:rzp.io+data:scheme:io.rzp
+ADDED from [com.razorpay:checkout:1.6.8] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/a729598ba7c6884f3198dc91a5cca2f8/checkout-1.6.8/AndroidManifest.xml:22:13-28:29
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/63f5385c09c68f379b6a1c31dda80725/play-services-auth-17.0.0/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/63f5385c09c68f379b6a1c31dda80725/play-services-auth-17.0.0/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/63f5385c09c68f379b6a1c31dda80725/play-services-auth-17.0.0/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/63f5385c09c68f379b6a1c31dda80725/play-services-auth-17.0.0/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/63f5385c09c68f379b6a1c31dda80725/play-services-auth-17.0.0/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/63f5385c09c68f379b6a1c31dda80725/play-services-auth-17.0.0/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/63f5385c09c68f379b6a1c31dda80725/play-services-auth-17.0.0/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/63f5385c09c68f379b6a1c31dda80725/play-services-auth-17.0.0/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/63f5385c09c68f379b6a1c31dda80725/play-services-auth-17.0.0/AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/f9695fbd744b955793ce9f2a8f2d3e0b/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/f9695fbd744b955793ce9f2a8f2d3e0b/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/f9695fbd744b955793ce9f2a8f2d3e0b/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/f9695fbd744b955793ce9f2a8f2d3e0b/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/9fb12ba13588e3595054e4dcaf1f786b/jetified-firebase-common-19.3.0/AndroidManifest.xml:26:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/9fb12ba13588e3595054e4dcaf1f786b/jetified-firebase-common-19.3.0/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/9fb12ba13588e3595054e4dcaf1f786b/jetified-firebase-common-19.3.0/AndroidManifest.xml:29:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/9fb12ba13588e3595054e4dcaf1f786b/jetified-firebase-common-19.3.0/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/9fb12ba13588e3595054e4dcaf1f786b/jetified-firebase-common-19.3.0/AndroidManifest.xml:27:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/1b5be332afaa63d2446341872c65b4b5/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/3ac3f628bb830c2982f30a8262205375/jetified-android-maps-utils-0.5/AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/3ac3f628bb830c2982f30a8262205375/jetified-android-maps-utils-0.5/AndroidManifest.xml:8:9-10:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/1b5be332afaa63d2446341872c65b4b5/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/1b5be332afaa63d2446341872c65b4b5/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/58a090e0f1550ef5d5e75ef1dbb1fac6/lifecycle-process-2.0.0/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/58a090e0f1550ef5d5e75ef1dbb1fac6/lifecycle-process-2.0.0/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/58a090e0f1550ef5d5e75ef1dbb1fac6/lifecycle-process-2.0.0/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/58a090e0f1550ef5d5e75ef1dbb1fac6/lifecycle-process-2.0.0/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/58a090e0f1550ef5d5e75ef1dbb1fac6/lifecycle-process-2.0.0/AndroidManifest.xml:24:13-79

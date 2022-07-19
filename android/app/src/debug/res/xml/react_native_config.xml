@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<react_native_config>
+    <base-config cleartextTrafficPermitted="true">
+        <trust-anchors>
+            <certificates src="system" />
+        </trust-anchors>
+    </base-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="false">cab2door.com</domain>
+    </domain-config>
+</react_native_config>

@@ -1,0 +1,604 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.amb.user"
+4    android:versionCode="2"
+5    android:versionName="1.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+9        android:targetSdkVersion="29" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->/Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/debug/AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:4:5-67
+12-->/Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:4:22-64
+13    <uses-permission android:name="android.permission.CAMERA" />
+13-->/Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:5:5-65
+13-->/Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:5:22-62
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->/Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:6:5-80
+14-->/Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:6:22-78
+15    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+15-->/Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:7:5-80
+15-->/Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:7:22-78
+16    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+16-->/Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:8:5-79
+16-->/Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:8:22-76
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+17-->/Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:9:5-79
+17-->/Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:9:22-76
+18    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+18-->/Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:10:5-81
+18-->/Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:10:22-78
+19    <uses-permission android:name="android.permission.VIBRATE" />
+19-->/Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:11:5-66
+19-->/Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:11:22-63
+20    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+20-->[com.facebook.flipper:flipper:0.33.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/5575668f30d3f7bf0c3766d1e09ffe2b/jetified-flipper-0.33.1/AndroidManifest.xml:16:5-76
+20-->[com.facebook.flipper:flipper:0.33.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/5575668f30d3f7bf0c3766d1e09ffe2b/jetified-flipper-0.33.1/AndroidManifest.xml:16:22-73
+21    <uses-permission android:name="android.permission.WAKE_LOCK" />
+21-->[com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:25:5-68
+21-->[com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:25:22-65
+22    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+22-->[com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:26:5-110
+22-->[com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:26:22-107
+23    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+23-->[com.google.firebase:firebase-iid:20.0.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/650be9f20f75f16a764e727e11731074/firebase-iid-20.0.2/AndroidManifest.xml:26:5-82
+23-->[com.google.firebase:firebase-iid:20.0.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/650be9f20f75f16a764e727e11731074/firebase-iid-20.0.2/AndroidManifest.xml:26:22-79
+24
+25    <uses-feature
+25-->[com.google.android.gms:play-services-maps:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/9625e09df33125f138b13aaf49e104f8/play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+26        android:glEsVersion="0x00020000"
+26-->[com.google.android.gms:play-services-maps:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/9625e09df33125f138b13aaf49e104f8/play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
+27        android:required="true" />
+27-->[com.google.android.gms:play-services-maps:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/9625e09df33125f138b13aaf49e104f8/play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+28
+29    <application
+29-->/Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:13:5-38:19
+30        android:name="com.amb.user.MainApplication"
+30-->/Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:14:7-38
+31        android:allowBackup="false"
+31-->/Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:18:7-34
+32        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+32-->[androidx.core:core:1.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/12b9f80d7940b20fd2074e9692068e7f/core-1.1.0/AndroidManifest.xml:24:18-86
+33        android:debuggable="true"
+34        android:icon="@mipmap/ic_launcher"
+34-->/Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:16:7-41
+35        android:label="@string/app_name"
+35-->/Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:15:7-39
+36        android:networkSecurityConfig="@xml/network_security_config"
+36-->/Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:20:7-67
+37        android:requestLegacyExternalStorage="true"
+37-->/Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:22:7-50
+38        android:roundIcon="@mipmap/ic_launcher_round"
+38-->/Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:17:7-52
+39        android:theme="@style/AppTheme"
+39-->/Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:21:7-38
+40        android:usesCleartextTraffic="true" >
+40-->/Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:19:7-42
+41        <meta-data
+41-->/Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:23:7-25:66
+42            android:name="com.google.android.geo.API_KEY"
+42-->/Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:24:9-54
+43            android:value="AIzaSyASaXtBoCgDZK_k9_E5fTL_WNVedgsK4cQ" />
+43-->/Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:25:9-64
+44
+45        <activity
+45-->/Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:26:7-36:18
+46            android:name="com.amb.user.MainActivity"
+46-->/Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:27:9-37
+47            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+47-->/Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:29:9-86
+48            android:label="@string/app_name"
+48-->/Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:28:9-41
+49            android:launchMode="singleTop"
+49-->/Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:30:9-39
+50            android:windowSoftInputMode="adjustResize" >
+50-->/Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:31:9-51
+51            <intent-filter>
+51-->/Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:32:9-35:25
+52                <action android:name="android.intent.action.MAIN" />
+52-->/Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:33:13-65
+52-->/Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:33:21-62
+53
+54                <category android:name="android.intent.category.LAUNCHER" />
+54-->/Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:34:13-73
+54-->/Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:34:23-70
+55            </intent-filter>
+56        </activity>
+57        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+57-->/Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:37:7-84
+57-->/Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:37:17-81
+58        <activity android:name="com.masteratul.exceptionhandler.DefaultErrorScreen" >
+58-->[:react-native-exception-handler] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-exception-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-13:20
+58-->[:react-native-exception-handler] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-exception-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:19-84
+59        </activity>
+60
+61        <provider
+61-->[:react-native-image-picker] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:9-18:20
+62            android:name="com.imagepicker.FileProvider"
+62-->[:react-native-image-picker] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-56
+63            android:authorities="com.amb.user.provider"
+63-->[:react-native-image-picker] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-60
+64            android:exported="false"
+64-->[:react-native-image-picker] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-37
+65            android:grantUriPermissions="true" >
+65-->[:react-native-image-picker] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-47
+66            <meta-data
+66-->[:react-native-image-picker] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-17:58
+67                android:name="android.support.FILE_PROVIDER_PATHS"
+67-->[:react-native-image-picker] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:17-67
+68                android:resource="@xml/provider_paths" />
+68-->[:react-native-image-picker] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-55
+69        </provider>
+70
+71        <activity
+71-->[:react-native-razorpay] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-razorpay/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-14:86
+72            android:name="com.razorpay.CheckoutActivity"
+72-->[:react-native-razorpay] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-razorpay/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-57
+73            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+73-->[:react-native-razorpay] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/react-native-razorpay/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-83
+74            android:theme="@style/CheckoutTheme" >
+74-->[com.razorpay:checkout:1.6.8] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/a729598ba7c6884f3198dc91a5cca2f8/checkout-1.6.8/AndroidManifest.xml:21:13-49
+75            <intent-filter>
+75-->[com.razorpay:checkout:1.6.8] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/a729598ba7c6884f3198dc91a5cca2f8/checkout-1.6.8/AndroidManifest.xml:22:13-28:29
+76                <action android:name="android.intent.action.MAIN" />
+76-->/Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:33:13-65
+76-->/Users/triazine1/Documents/ReactNative/911customer-main/android/app/src/main/AndroidManifest.xml:33:21-62
+77
+78                <data
+78-->[:tipsi-stripe] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/tipsi-stripe/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:17-50
+79                    android:host="rzp.io"
+80                    android:scheme="io.rzp" />
+80-->[:tipsi-stripe] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/tipsi-stripe/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:23-47
+81            </intent-filter>
+82        </activity>
+83        <activity
+83-->[:tipsi-stripe] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/tipsi-stripe/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-16:75
+84            android:name="com.gettipsi.stripe.OpenBrowserActivity"
+84-->[:tipsi-stripe] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/tipsi-stripe/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-67
+85            android:exported="false"
+85-->[:tipsi-stripe] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/tipsi-stripe/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-37
+86            android:launchMode="singleTask"
+86-->[:tipsi-stripe] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/tipsi-stripe/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-44
+87            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+87-->[:tipsi-stripe] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/tipsi-stripe/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-72
+88        <activity
+88-->[:tipsi-stripe] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/tipsi-stripe/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:9-30:20
+89            android:name="com.gettipsi.stripe.RedirectUriReceiver"
+89-->[:tipsi-stripe] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/tipsi-stripe/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-67
+90            android:exported="true"
+90-->[:tipsi-stripe] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/tipsi-stripe/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-36
+91            android:launchMode="singleTask"
+91-->[:tipsi-stripe] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/tipsi-stripe/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-44
+92            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" >
+92-->[:tipsi-stripe] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/tipsi-stripe/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:13-83
+93            <intent-filter>
+93-->[:tipsi-stripe] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/tipsi-stripe/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:13-29:29
+94                <action android:name="android.intent.action.VIEW" />
+94-->[:tipsi-stripe] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/tipsi-stripe/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:17-69
+94-->[:tipsi-stripe] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/tipsi-stripe/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:25-66
+95
+96                <category android:name="android.intent.category.DEFAULT" />
+96-->[:tipsi-stripe] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/tipsi-stripe/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:17-76
+96-->[:tipsi-stripe] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/tipsi-stripe/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:27-73
+97                <category android:name="android.intent.category.BROWSABLE" />
+97-->[:tipsi-stripe] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/tipsi-stripe/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:17-78
+97-->[:tipsi-stripe] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/tipsi-stripe/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:27-75
+98
+99                <data android:scheme="example" />
+99-->[:tipsi-stripe] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/tipsi-stripe/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:17-50
+99-->[:tipsi-stripe] /Users/triazine1/Documents/ReactNative/911customer-main/node_modules/tipsi-stripe/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:23-47
+100            </intent-filter>
+101        </activity>
+102        <activity
+102-->[com.stripe:stripe-android:8.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/6f3b64bc4bbcd2393d2ce672c4e8aa6d/jetified-stripe-android-8.1.0/AndroidManifest.xml:12:9-16:20
+103            android:name="com.stripe.android.view.AddSourceActivity"
+103-->[com.stripe:stripe-android:8.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/6f3b64bc4bbcd2393d2ce672c4e8aa6d/jetified-stripe-android-8.1.0/AndroidManifest.xml:13:13-69
+104            android:theme="@style/StripeDefaultTheme"
+104-->[com.stripe:stripe-android:8.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/6f3b64bc4bbcd2393d2ce672c4e8aa6d/jetified-stripe-android-8.1.0/AndroidManifest.xml:14:13-54
+105            android:windowSoftInputMode="stateVisible" >
+105-->[com.stripe:stripe-android:8.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/6f3b64bc4bbcd2393d2ce672c4e8aa6d/jetified-stripe-android-8.1.0/AndroidManifest.xml:15:13-55
+106        </activity>
+107        <activity
+107-->[com.stripe:stripe-android:8.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/6f3b64bc4bbcd2393d2ce672c4e8aa6d/jetified-stripe-android-8.1.0/AndroidManifest.xml:17:9-20:20
+108            android:name="com.stripe.android.view.PaymentMethodsActivity"
+108-->[com.stripe:stripe-android:8.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/6f3b64bc4bbcd2393d2ce672c4e8aa6d/jetified-stripe-android-8.1.0/AndroidManifest.xml:18:13-74
+109            android:theme="@style/StripeDefaultTheme" >
+109-->[com.stripe:stripe-android:8.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/6f3b64bc4bbcd2393d2ce672c4e8aa6d/jetified-stripe-android-8.1.0/AndroidManifest.xml:19:13-54
+110        </activity>
+111        <activity
+111-->[com.stripe:stripe-android:8.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/6f3b64bc4bbcd2393d2ce672c4e8aa6d/jetified-stripe-android-8.1.0/AndroidManifest.xml:21:9-24:20
+112            android:name="com.stripe.android.view.PaymentFlowActivity"
+112-->[com.stripe:stripe-android:8.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/6f3b64bc4bbcd2393d2ce672c4e8aa6d/jetified-stripe-android-8.1.0/AndroidManifest.xml:22:13-71
+113            android:theme="@style/StripeDefaultTheme" >
+113-->[com.stripe:stripe-android:8.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/6f3b64bc4bbcd2393d2ce672c4e8aa6d/jetified-stripe-android-8.1.0/AndroidManifest.xml:23:13-54
+114        </activity>
+115        <!--
+116             FirebaseMessagingService performs security checks at runtime,
+117             but set to not exported to explicitly avoid allowing another app to call it.
+118        -->
+119        <service
+119-->[com.google.firebase:firebase-messaging:20.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/b863ecf1d60e6dc77c1250712ec6fab9/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:28:9-34:19
+120            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+120-->[com.google.firebase:firebase-messaging:20.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/b863ecf1d60e6dc77c1250712ec6fab9/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:29:13-82
+121            android:exported="false" >
+121-->[com.google.firebase:firebase-messaging:20.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/b863ecf1d60e6dc77c1250712ec6fab9/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:30:13-37
+122            <intent-filter android:priority="-500" >
+122-->[com.google.firebase:firebase-messaging:20.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/b863ecf1d60e6dc77c1250712ec6fab9/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:31:13-33:29
+122-->[com.google.firebase:firebase-messaging:20.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/b863ecf1d60e6dc77c1250712ec6fab9/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:31:28-51
+123                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+123-->[com.google.firebase:firebase-messaging:20.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/b863ecf1d60e6dc77c1250712ec6fab9/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:32:17-78
+123-->[com.google.firebase:firebase-messaging:20.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/b863ecf1d60e6dc77c1250712ec6fab9/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:32:25-75
+124            </intent-filter>
+125        </service>
+126        <service
+126-->[com.google.firebase:firebase-messaging:20.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/b863ecf1d60e6dc77c1250712ec6fab9/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:35:9-41:19
+127            android:name="com.google.firebase.components.ComponentDiscoveryService"
+127-->[com.google.firebase:firebase-messaging:20.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/b863ecf1d60e6dc77c1250712ec6fab9/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:36:13-84
+128            android:directBootAware="true"
+128-->[com.google.firebase:firebase-common:19.3.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/9fb12ba13588e3595054e4dcaf1f786b/jetified-firebase-common-19.3.0/AndroidManifest.xml:34:13-43
+129            android:exported="false" >
+129-->[com.google.firebase:firebase-messaging:20.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/b863ecf1d60e6dc77c1250712ec6fab9/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:37:13-37
+130            <meta-data
+130-->[com.google.firebase:firebase-messaging:20.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/b863ecf1d60e6dc77c1250712ec6fab9/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:38:13-40:85
+131                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+131-->[com.google.firebase:firebase-messaging:20.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/b863ecf1d60e6dc77c1250712ec6fab9/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:39:17-119
+132                android:value="com.google.firebase.components.ComponentRegistrar" />
+132-->[com.google.firebase:firebase-messaging:20.1.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/b863ecf1d60e6dc77c1250712ec6fab9/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:40:17-82
+133            <meta-data
+133-->[com.google.firebase:firebase-datatransport:17.0.3] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/608d7d80226dcbb5bb913cce7647ebf4/firebase-datatransport-17.0.3/AndroidManifest.xml:28:13-30:85
+134                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+134-->[com.google.firebase:firebase-datatransport:17.0.3] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/608d7d80226dcbb5bb913cce7647ebf4/firebase-datatransport-17.0.3/AndroidManifest.xml:29:17-115
+135                android:value="com.google.firebase.components.ComponentRegistrar" />
+135-->[com.google.firebase:firebase-datatransport:17.0.3] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/608d7d80226dcbb5bb913cce7647ebf4/firebase-datatransport-17.0.3/AndroidManifest.xml:30:17-82
+136            <meta-data
+136-->[com.google.android.gms:play-services-measurement-api:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/e5abcd9a2c85d3df9455b0594c047112/play-services-measurement-api-17.2.2/AndroidManifest.xml:30:13-32:85
+137                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+137-->[com.google.android.gms:play-services-measurement-api:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/e5abcd9a2c85d3df9455b0594c047112/play-services-measurement-api-17.2.2/AndroidManifest.xml:31:17-139
+138                android:value="com.google.firebase.components.ComponentRegistrar" />
+138-->[com.google.android.gms:play-services-measurement-api:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/e5abcd9a2c85d3df9455b0594c047112/play-services-measurement-api-17.2.2/AndroidManifest.xml:32:17-82
+139            <meta-data
+139-->[com.google.firebase:firebase-iid:20.0.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/650be9f20f75f16a764e727e11731074/firebase-iid-20.0.2/AndroidManifest.xml:32:13-34:85
+140                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+140-->[com.google.firebase:firebase-iid:20.0.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/650be9f20f75f16a764e727e11731074/firebase-iid-20.0.2/AndroidManifest.xml:33:17-96
+141                android:value="com.google.firebase.components.ComponentRegistrar" />
+141-->[com.google.firebase:firebase-iid:20.0.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/650be9f20f75f16a764e727e11731074/firebase-iid-20.0.2/AndroidManifest.xml:34:17-82
+142        </service>
+143        <service
+143-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/6ae79be7141b0e0e3800c62d6cd75ee1/transport-backend-cct-2.2.0/AndroidManifest.xml:29:9-35:19
+144            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+144-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/6ae79be7141b0e0e3800c62d6cd75ee1/transport-backend-cct-2.2.0/AndroidManifest.xml:30:13-103
+145            android:exported="false" >
+145-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/6ae79be7141b0e0e3800c62d6cd75ee1/transport-backend-cct-2.2.0/AndroidManifest.xml:31:13-37
+146            <meta-data
+146-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/6ae79be7141b0e0e3800c62d6cd75ee1/transport-backend-cct-2.2.0/AndroidManifest.xml:32:13-34:39
+147                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+147-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/6ae79be7141b0e0e3800c62d6cd75ee1/transport-backend-cct-2.2.0/AndroidManifest.xml:33:17-94
+148                android:value="cct" />
+148-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/6ae79be7141b0e0e3800c62d6cd75ee1/transport-backend-cct-2.2.0/AndroidManifest.xml:34:17-36
+149        </service>
+150        <service
+150-->[com.google.android.datatransport:transport-runtime:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/36dde8357b13a33ada86951eec006b1b/transport-runtime-2.2.0/AndroidManifest.xml:26:9-30:19
+151            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+151-->[com.google.android.datatransport:transport-runtime:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/36dde8357b13a33ada86951eec006b1b/transport-runtime-2.2.0/AndroidManifest.xml:27:13-117
+152            android:exported="false"
+152-->[com.google.android.datatransport:transport-runtime:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/36dde8357b13a33ada86951eec006b1b/transport-runtime-2.2.0/AndroidManifest.xml:28:13-37
+153            android:permission="android.permission.BIND_JOB_SERVICE" >
+153-->[com.google.android.datatransport:transport-runtime:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/36dde8357b13a33ada86951eec006b1b/transport-runtime-2.2.0/AndroidManifest.xml:29:13-69
+154        </service>
+155
+156        <receiver
+156-->[com.google.android.datatransport:transport-runtime:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/36dde8357b13a33ada86951eec006b1b/transport-runtime-2.2.0/AndroidManifest.xml:32:9-34:40
+157            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+157-->[com.google.android.datatransport:transport-runtime:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/36dde8357b13a33ada86951eec006b1b/transport-runtime-2.2.0/AndroidManifest.xml:33:13-132
+158            android:exported="false" />
+158-->[com.google.android.datatransport:transport-runtime:2.2.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/36dde8357b13a33ada86951eec006b1b/transport-runtime-2.2.0/AndroidManifest.xml:34:13-37
+159        <receiver
+159-->[com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:29:9-33:20
+160            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+160-->[com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:30:13-85
+161            android:enabled="true"
+161-->[com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:31:13-35
+162            android:exported="false" >
+162-->[com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:32:13-37
+163        </receiver>
+164        <receiver
+164-->[com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:34:9-42:20
+165            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+165-->[com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:35:13-100
+166            android:enabled="true"
+166-->[com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:36:13-35
+167            android:exported="true"
+167-->[com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:37:13-36
+168            android:permission="android.permission.INSTALL_PACKAGES" >
+168-->[com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:38:13-69
+169            <intent-filter>
+169-->[com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:39:13-41:29
+170                <action android:name="com.android.vending.INSTALL_REFERRER" />
+170-->[com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:40:17-79
+170-->[com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:40:25-76
+171            </intent-filter>
+172        </receiver>
+173
+174        <service
+174-->[com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:44:9-47:40
+175            android:name="com.google.android.gms.measurement.AppMeasurementService"
+175-->[com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:45:13-84
+176            android:enabled="true"
+176-->[com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:46:13-35
+177            android:exported="false" />
+177-->[com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:47:13-37
+178        <service
+178-->[com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:48:9-52:72
+179            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+179-->[com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:49:13-87
+180            android:enabled="true"
+180-->[com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:50:13-35
+181            android:exported="false"
+181-->[com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:51:13-37
+182            android:permission="android.permission.BIND_JOB_SERVICE" />
+182-->[com.google.android.gms:play-services-measurement:17.2.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/fecfe522bf679a91a17172ad39a40a1f/play-services-measurement-17.2.2/AndroidManifest.xml:52:13-69
+183
+184        <receiver
+184-->[com.google.firebase:firebase-iid:20.0.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/650be9f20f75f16a764e727e11731074/firebase-iid-20.0.2/AndroidManifest.xml:37:9-44:20
+185            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+185-->[com.google.firebase:firebase-iid:20.0.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/650be9f20f75f16a764e727e11731074/firebase-iid-20.0.2/AndroidManifest.xml:38:13-78
+186            android:exported="true"
+186-->[com.google.firebase:firebase-iid:20.0.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/650be9f20f75f16a764e727e11731074/firebase-iid-20.0.2/AndroidManifest.xml:39:13-36
+187            android:permission="com.google.android.c2dm.permission.SEND" >
+187-->[com.google.firebase:firebase-iid:20.0.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/650be9f20f75f16a764e727e11731074/firebase-iid-20.0.2/AndroidManifest.xml:40:13-73
+188            <intent-filter>
+188-->[com.google.firebase:firebase-iid:20.0.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/650be9f20f75f16a764e727e11731074/firebase-iid-20.0.2/AndroidManifest.xml:41:13-43:29
+189                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+189-->[com.google.firebase:firebase-iid:20.0.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/650be9f20f75f16a764e727e11731074/firebase-iid-20.0.2/AndroidManifest.xml:42:17-81
+189-->[com.google.firebase:firebase-iid:20.0.2] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/650be9f20f75f16a764e727e11731074/firebase-iid-20.0.2/AndroidManifest.xml:42:25-78
+190            </intent-filter>
+191        </receiver>
+192
+193        <provider
+193-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:28:9-34:35
+194            android:name="androidx.work.impl.WorkManagerInitializer"
+194-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:29:13-69
+195            android:authorities="com.amb.user.workmanager-init"
+195-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:30:13-68
+196            android:directBootAware="false"
+196-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:31:13-44
+197            android:exported="false"
+197-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:32:13-37
+198            android:multiprocess="true" />
+198-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:33:13-40
+199
+200        <service
+200-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:36:9-41:35
+201            android:name="androidx.work.impl.background.systemalarm.SystemAlarmService"
+201-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:37:13-88
+202            android:directBootAware="false"
+202-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:38:13-44
+203            android:enabled="@bool/enable_system_alarm_service_default"
+203-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:39:13-72
+204            android:exported="false" />
+204-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:40:13-37
+205        <service
+205-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:42:9-48:35
+206            android:name="androidx.work.impl.background.systemjob.SystemJobService"
+206-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:43:13-84
+207            android:directBootAware="false"
+207-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:44:13-44
+208            android:enabled="@bool/enable_system_job_service_default"
+208-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:45:13-70
+209            android:exported="true"
+209-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:46:13-36
+210            android:permission="android.permission.BIND_JOB_SERVICE" />
+210-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:47:13-69
+211
+212        <receiver
+212-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:50:9-55:35
+213            android:name="androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver"
+213-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:51:13-88
+214            android:directBootAware="false"
+214-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:52:13-44
+215            android:enabled="true"
+215-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:53:13-35
+216            android:exported="false" />
+216-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:54:13-37
+217        <receiver
+217-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:56:9-66:20
+218            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy"
+218-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:57:13-106
+219            android:directBootAware="false"
+219-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:58:13-44
+220            android:enabled="false"
+220-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:59:13-36
+221            android:exported="false" >
+221-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:60:13-37
+222            <intent-filter>
+222-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:62:13-65:29
+223                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
+223-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:63:17-87
+223-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:63:25-84
+224                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
+224-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:64:17-90
+224-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:64:25-87
+225            </intent-filter>
+226        </receiver>
+227        <receiver
+227-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:67:9-77:20
+228            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy"
+228-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:68:13-104
+229            android:directBootAware="false"
+229-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:69:13-44
+230            android:enabled="false"
+230-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:70:13-36
+231            android:exported="false" >
+231-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:71:13-37
+232            <intent-filter>
+232-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:73:13-76:29
+233                <action android:name="android.intent.action.BATTERY_OKAY" />
+233-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:74:17-77
+233-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:74:25-74
+234                <action android:name="android.intent.action.BATTERY_LOW" />
+234-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:75:17-76
+234-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:75:25-73
+235            </intent-filter>
+236        </receiver>
+237        <receiver
+237-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:78:9-88:20
+238            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy"
+238-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:79:13-104
+239            android:directBootAware="false"
+239-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:80:13-44
+240            android:enabled="false"
+240-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:81:13-36
+241            android:exported="false" >
+241-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:82:13-37
+242            <intent-filter>
+242-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:84:13-87:29
+243                <action android:name="android.intent.action.DEVICE_STORAGE_LOW" />
+243-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:85:17-83
+243-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:85:25-80
+244                <action android:name="android.intent.action.DEVICE_STORAGE_OK" />
+244-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:86:17-82
+244-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:86:25-79
+245            </intent-filter>
+246        </receiver>
+247        <receiver
+247-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:89:9-98:20
+248            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy"
+248-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:90:13-103
+249            android:directBootAware="false"
+249-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:91:13-44
+250            android:enabled="false"
+250-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:92:13-36
+251            android:exported="false" >
+251-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:93:13-37
+252            <intent-filter>
+252-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:95:13-97:29
+253                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+253-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:96:17-79
+253-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:96:25-76
+254            </intent-filter>
+255        </receiver>
+256        <receiver
+256-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:99:9-110:20
+257            android:name="androidx.work.impl.background.systemalarm.RescheduleReceiver"
+257-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:100:13-88
+258            android:directBootAware="false"
+258-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:101:13-44
+259            android:enabled="false"
+259-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:102:13-36
+260            android:exported="false" >
+260-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:103:13-37
+261            <intent-filter>
+261-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:105:13-109:29
+262                <action android:name="android.intent.action.BOOT_COMPLETED" />
+262-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:106:17-79
+262-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:106:25-76
+263                <action android:name="android.intent.action.TIME_SET" />
+263-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:107:17-73
+263-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:107:25-70
+264                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+264-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:108:17-81
+264-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:108:25-78
+265            </intent-filter>
+266        </receiver>
+267        <receiver
+267-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:111:9-120:20
+268            android:name="androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver"
+268-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:112:13-99
+269            android:directBootAware="false"
+269-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:113:13-44
+270            android:enabled="@bool/enable_system_alarm_service_default"
+270-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:114:13-72
+271            android:exported="false" >
+271-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:115:13-37
+272            <intent-filter>
+272-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:117:13-119:29
+273                <action android:name="androidx.work.impl.background.systemalarm.UpdateProxies" />
+273-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:118:17-98
+273-->[android.arch.work:work-runtime:1.0.1] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/210f0362e10c469b1b7f7a5b2fff1308/jetified-work-runtime-1.0.1/AndroidManifest.xml:118:25-95
+274            </intent-filter>
+275        </receiver> <!-- Needs to be explicitly declared on P+ -->
+276        <uses-library
+276-->[com.google.android.gms:play-services-maps:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/9625e09df33125f138b13aaf49e104f8/play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+277            android:name="org.apache.http.legacy"
+277-->[com.google.android.gms:play-services-maps:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/9625e09df33125f138b13aaf49e104f8/play-services-maps-17.0.0/AndroidManifest.xml:34:13-50
+278            android:required="false" />
+278-->[com.google.android.gms:play-services-maps:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/9625e09df33125f138b13aaf49e104f8/play-services-maps-17.0.0/AndroidManifest.xml:35:13-37
+279
+280        <receiver android:name="com.razorpay.RzpTokenReceiver" >
+280-->[com.razorpay:checkout:1.6.8] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/a729598ba7c6884f3198dc91a5cca2f8/checkout-1.6.8/AndroidManifest.xml:12:9-16:20
+280-->[com.razorpay:checkout:1.6.8] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/a729598ba7c6884f3198dc91a5cca2f8/checkout-1.6.8/AndroidManifest.xml:12:19-63
+281            <intent-filter>
+281-->[com.razorpay:checkout:1.6.8] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/a729598ba7c6884f3198dc91a5cca2f8/checkout-1.6.8/AndroidManifest.xml:13:13-15:29
+282                <action android:name="rzp.device_token.share" />
+282-->[com.razorpay:checkout:1.6.8] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/a729598ba7c6884f3198dc91a5cca2f8/checkout-1.6.8/AndroidManifest.xml:14:17-65
+282-->[com.razorpay:checkout:1.6.8] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/a729598ba7c6884f3198dc91a5cca2f8/checkout-1.6.8/AndroidManifest.xml:14:25-62
+283            </intent-filter>
+284        </receiver>
+285
+286        <activity
+286-->[com.google.android.gms:play-services-auth:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/63f5385c09c68f379b6a1c31dda80725/play-services-auth-17.0.0/AndroidManifest.xml:23:9-27:75
+287            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+287-->[com.google.android.gms:play-services-auth:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/63f5385c09c68f379b6a1c31dda80725/play-services-auth-17.0.0/AndroidManifest.xml:24:13-93
+288            android:excludeFromRecents="true"
+288-->[com.google.android.gms:play-services-auth:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/63f5385c09c68f379b6a1c31dda80725/play-services-auth-17.0.0/AndroidManifest.xml:25:13-46
+289            android:exported="false"
+289-->[com.google.android.gms:play-services-auth:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/63f5385c09c68f379b6a1c31dda80725/play-services-auth-17.0.0/AndroidManifest.xml:26:13-37
+290            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+290-->[com.google.android.gms:play-services-auth:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/63f5385c09c68f379b6a1c31dda80725/play-services-auth-17.0.0/AndroidManifest.xml:27:13-72
+291        <!--
+292            Service handling Google Sign-In user revocation. For apps that do not integrate with
+293            Google Sign-In, this service will never be started.
+294        -->
+295        <service
+295-->[com.google.android.gms:play-services-auth:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/63f5385c09c68f379b6a1c31dda80725/play-services-auth-17.0.0/AndroidManifest.xml:33:9-36:110
+296            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+296-->[com.google.android.gms:play-services-auth:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/63f5385c09c68f379b6a1c31dda80725/play-services-auth-17.0.0/AndroidManifest.xml:34:13-89
+297            android:exported="true"
+297-->[com.google.android.gms:play-services-auth:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/63f5385c09c68f379b6a1c31dda80725/play-services-auth-17.0.0/AndroidManifest.xml:35:13-36
+298            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+298-->[com.google.android.gms:play-services-auth:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/63f5385c09c68f379b6a1c31dda80725/play-services-auth-17.0.0/AndroidManifest.xml:36:13-107
+299
+300        <activity
+300-->[com.google.android.gms:play-services-base:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/f9695fbd744b955793ce9f2a8f2d3e0b/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+301            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+301-->[com.google.android.gms:play-services-base:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/f9695fbd744b955793ce9f2a8f2d3e0b/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+302            android:exported="false"
+302-->[com.google.android.gms:play-services-base:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/f9695fbd744b955793ce9f2a8f2d3e0b/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+303            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+303-->[com.google.android.gms:play-services-base:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/f9695fbd744b955793ce9f2a8f2d3e0b/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+304
+305        <provider
+305-->[com.google.firebase:firebase-common:19.3.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/9fb12ba13588e3595054e4dcaf1f786b/jetified-firebase-common-19.3.0/AndroidManifest.xml:26:9-30:39
+306            android:name="com.google.firebase.provider.FirebaseInitProvider"
+306-->[com.google.firebase:firebase-common:19.3.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/9fb12ba13588e3595054e4dcaf1f786b/jetified-firebase-common-19.3.0/AndroidManifest.xml:27:13-77
+307            android:authorities="com.amb.user.firebaseinitprovider"
+307-->[com.google.firebase:firebase-common:19.3.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/9fb12ba13588e3595054e4dcaf1f786b/jetified-firebase-common-19.3.0/AndroidManifest.xml:28:13-72
+308            android:exported="false"
+308-->[com.google.firebase:firebase-common:19.3.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/9fb12ba13588e3595054e4dcaf1f786b/jetified-firebase-common-19.3.0/AndroidManifest.xml:29:13-37
+309            android:initOrder="100" />
+309-->[com.google.firebase:firebase-common:19.3.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/9fb12ba13588e3595054e4dcaf1f786b/jetified-firebase-common-19.3.0/AndroidManifest.xml:30:13-36
+310
+311        <meta-data
+311-->[com.google.android.gms:play-services-basement:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/1b5be332afaa63d2446341872c65b4b5/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+312            android:name="com.google.android.gms.version"
+312-->[com.google.android.gms:play-services-basement:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/1b5be332afaa63d2446341872c65b4b5/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+313            android:value="@integer/google_play_services_version" />
+313-->[com.google.android.gms:play-services-basement:17.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/1b5be332afaa63d2446341872c65b4b5/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+314
+315        <provider
+315-->[androidx.lifecycle:lifecycle-process:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/58a090e0f1550ef5d5e75ef1dbb1fac6/lifecycle-process-2.0.0/AndroidManifest.xml:23:9-27:43
+316            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+316-->[androidx.lifecycle:lifecycle-process:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/58a090e0f1550ef5d5e75ef1dbb1fac6/lifecycle-process-2.0.0/AndroidManifest.xml:24:13-79
+317            android:authorities="com.amb.user.lifecycle-process"
+317-->[androidx.lifecycle:lifecycle-process:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/58a090e0f1550ef5d5e75ef1dbb1fac6/lifecycle-process-2.0.0/AndroidManifest.xml:25:13-69
+318            android:exported="false"
+318-->[androidx.lifecycle:lifecycle-process:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/58a090e0f1550ef5d5e75ef1dbb1fac6/lifecycle-process-2.0.0/AndroidManifest.xml:26:13-37
+319            android:multiprocess="true" />
+319-->[androidx.lifecycle:lifecycle-process:2.0.0] /Users/triazine1/.gradle/caches/transforms-2/files-2.1/58a090e0f1550ef5d5e75ef1dbb1fac6/lifecycle-process-2.0.0/AndroidManifest.xml:27:13-40
+320    </application>
+321
+322</manifest>
